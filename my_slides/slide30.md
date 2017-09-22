@@ -194,6 +194,7 @@ P^{(x)}_{\alpha\beta} =\hbar k_x \delta_{\alpha\beta}.
 `
 
 
+
 ### Поперечное магнитное поле
 
 `
