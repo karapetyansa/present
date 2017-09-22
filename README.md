@@ -1,5 +1,7 @@
 [Презентация для предзащиты](https://karapetyansa.github.io/present/)
+
 [создана с помощью](https://github.com/hakimel/reveal.js)
+
 [Для печати перейти по ссылке](https://karapetyansa.github.io/present/white.html?print-pdf#/)
 поменять ориентацию страницы на ландшафтную
 
