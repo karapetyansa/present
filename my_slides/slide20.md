@@ -22,7 +22,7 @@ K(\Omega) = \frac{2 \pi e^2 }{V c n_0 \hbar \Omega m_e^2}\left( 1 - e^{-\beta_0 
 \]
 `
 <br>
-`$n_\alpha = \left\{ {\exp\left[ {\beta \left( {\varepsilon _\alpha - \xi } \right)} \right] + 1} \right\}^{ - 1}$` — равновесная
+`$n_\alpha = \left\{ \exp\left[ \beta \left( \varepsilon _\alpha - \xi \right) \right] + 1 \right\}^{- 1}$` — равновесная
 функция распределения для электронов с энергией $\varepsilon{_\alpha}$
 
 `
@@ -246,7 +246,7 @@ K\left(\Omega\right)=K_0{\sum_{nm}{\left|\left\langle \alpha_c | \alpha_v \right
 \[
 K_0=\frac{\hbar \Omega e^2}{4\mu^* E_g^* n_0 c s}, \;
 a=\frac{e^2 E^2}{8 m_e \hbar\Omega_e}, \\
-\frac{1}{{\mu }^*}=\frac{1}{m^*_e}+\frac{1}{m^*_v},\;
+\frac{1}{\mu^*}=\frac{1}{m^*_e}+\frac{1}{m^*_v},\;
 m^*_v=m_v {\left(\frac{\Omega_v}{\omega_v}\right)}^2
 \]
 `
@@ -256,7 +256,7 @@ m^*_v=m_v {\left(\frac{\Omega_v}{\omega_v}\right)}^2
 
 `
 \[
-K\left(\Omega\right)=K_0\sum_{nm}{ {\lvert\langle \alpha_c | \alpha_v \rangle\rvert}^2 {\left[\frac{8\pi {\mu }^*{\omega }_f}{\hbar a}\right]}^{\frac{1}{2}} \mathrm{Re} \int\limits_{0}^\infty {dx e^{f^2\left(x\right)}\left[1-\Phi \left(f\left(x\right)\right)\right]}}
+K\left(\Omega\right)=K_0\sum_{nm}{ {\lvert\langle \alpha_c | \alpha_v \rangle\rvert}^2 {\left[\frac{8\pi \mu^* \omega_f}{\hbar a}\right]}^{\frac{1}{2}} \mathrm{Re} \int\limits_0^\infty {dx e^{f^2\left(x\right)}\left[1-\Phi \left(f\left(x\right)\right)\right]}}
 \]
 `
 <br>
