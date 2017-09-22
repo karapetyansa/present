@@ -149,7 +149,7 @@ K(\Omega )=\frac{2e^2 }{n_0 c\hbar R^2 } \left|\frac{p_{cv} \xi_0 }{m_0 } \right
 
 ` 
 \[
-\Delta_n =\frac{\hbar \Omega -E_g -\hbar \omega^* \left(n+{\tfrac{1}{2}} \right)}{\hbar \omega \sqrt{\gamma } } ; \; a=\frac{e^2 E^2 }{2 4\mu \omega^3 \hbar \gamma ^{{\frac{3}{2}} } } ; \; \gamma =\frac{e^2 E_0^2 }{8 \mu \hbar \omega^3 }
+\Delta_n =\frac{\hbar \Omega -E_g -\hbar \omega^* \left(n+{\frac{1}{2}} \right)}{\hbar \omega \sqrt{\gamma } } ; \; a=\frac{e^2 E^2 }{2 4\mu \omega^3 \hbar \gamma^{\frac{3}{2}} } ; \; \gamma =\frac{e^2 E_0^2 }{8 \mu \hbar \omega^3 }
 \]
 ` 
 
