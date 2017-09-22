@@ -1,3 +1,8 @@
+
+<br>
+
+<br>
+
 # Глава 4
 
 ## **Явления переноса в наноструктурах в поперечном электрическом поле с учетом рассеяния на шероховатой поверхности**
@@ -6,19 +11,27 @@
 
 ### Подвижность в поперечном электрическом поле
 
+<br>
+
 `
 \[
 \sigma_{xx} =\frac{e^2 }{a\pi \hbar^2 \beta_0 } \sum_n\tau_n \ln \left(1+e^{-\beta \xi_n } \right)
 \]
 `
 
+<br>
+<br>
+
 Подвижность невырожденного газа
+
 `
 \[
 \mu_{xx} =\mu_{xx}(0)\frac{1}{\left(1+2 N_c \right)^2 }
 \]
 `
+
 где
+
 `
 \[
 \mu _{xx} (0)=\frac{e}{m} \left(\frac{\hbar a^4 }{2\gamma_0 \Delta E_c } \right)
@@ -27,6 +40,10 @@
 
 
 ### Учет двух механизмов рассеяния
+
+<br>
+
+<br>
 
 `
 \[
@@ -56,16 +73,25 @@
 
 ### Влияние поперечного электрического поля на подвижность в нанопроволоках
 
+<br>
+
 `
 \[
 E_{\alpha }^c =\frac{\hbar^2 k_x^2}{2m_e} +E_{nm}^c, \\
 E_{\alpha }^v =\Delta_0 -\frac{\hbar^2 k_x^2 }{2m_v } +E_{nm}^v
 \]
 `
+
 здесь
+
 `
 \[
-E_{nm}^c =\hbar \omega_e \left(n+k+1\right)-\Delta_c , \\
+E_{nm}^c =\hbar \omega_e \left(n+k+1\right)-\Delta_c ,
+\]
+`
+
+`
+\[
 E_{nm}^v =\hbar \omega_v \left(n+k+1\right)-\Delta_v ,
 \]
 `
@@ -78,11 +104,16 @@ E_{nm}^v =\hbar \omega_v \left(n+k+1\right)-\Delta_v ,
 
 
 Схема зонной структуры, рассматриваемой низкоразмерной структуры. Сплошными линиями показаны две нижайшие размерно-квантованные зоны ($c$ — зоны проводимости, $v$ — валентные зоны) , пунктирными линиями изображены две нижайшие размерно-квантованные зоны в поперечном электрическом поле; $\xi $ — химический потенциал
+<br>
+<div style="text-align: center;">
 <img src="./images/fig_4_4_1.jpg" width="50%">
+</div>
 
 
 
 ### Подвижности для электронов и дырок
+
+<br>
 
 `
 \[
@@ -104,7 +135,12 @@ F(\eta_{nm}^c )=\int\limits_0^{\infty }{\frac{dx}{\exp \left(x^2 -\eta_{nm}^c \r
 `
 
 
-Условие электронейтральности
+#### Условие электронейтральности
+
+<br>
+
+<br>
+
 `
 \[
 p\sqrt{\frac{m_c }{m_v } } \sum_{n,m}\int\limits_{0}^{\infty }{\frac{dx}{\exp \left(x^2 -\eta_{nm}^c \right)+1}}  =
@@ -115,6 +151,10 @@ p\sqrt{\frac{m_c }{m_v } } \sum_{n,m}\int\limits_{0}^{\infty }{\frac{dx}{\exp \l
 
 ### Частные случаи
 
+<br>
+
+<br>
+
 #### Невырожденный электронный газ
 
 `
@@ -122,6 +162,8 @@ p\sqrt{\frac{m_c }{m_v } } \sum_{n,m}\int\limits_{0}^{\infty }{\frac{dx}{\exp \l
 \mu =\frac{\mu_0}{\left(1+N_c \right)^2 }
 \]
 `
+
+<br>
 
 #### Вырожденный электронный газ
 
@@ -134,16 +176,28 @@ p\sqrt{\frac{m_c }{m_v } } \sum_{n,m}\int\limits_{0}^{\infty }{\frac{dx}{\exp \l
 
 Зависимость подвижности (в относительных единицах) от напряженности поперечного электрического поля. $R=330 Å$
 
-<img src="./images/fig_4_2_2.jpg" width="50%">
+<br>
+
+<div style="text-align: center;">
+<img src="./images/fig_4_2_2.jpg" width="60%">
+</div>
 
 
 Зависимость подвижности (в относительных единицах) от напряженности поперечного электрического поля. $R=990 Å$
 
-<img src="./images/fig_4_2_3.jpg" width="50%">
+<br>
+
+<div style="text-align: center;">
+<img src="./images/fig_4_2_3.jpg" width="60%">
+</div>
 
 
 
 ### Особенности подвижности в нанопроволоках в поперечных электрическом и магнитном полях
+
+<br>
+
+<br>
 
 `
 \[
@@ -166,7 +220,9 @@ p\sqrt{\frac{m_c }{m_v } } \sum_{n,m}\int\limits_{0}^{\infty }{\frac{dx}{\exp \l
 
 
 #### Подвижность носителей (электронов и дырок) в нанопроволоке:
+
 <br>
+
 `
 \[
 \mu =\frac{eR^2{\hbar }^2}{m^*_x \gamma_0}\frac{1}{\sqrt{2m^*_x \beta_0}\sum_{nm}{F\left(\xi_{nm}\right)}}\sum_{nm}{\frac{\ln \left[1+{\exp \left(\beta {\xi }_{nm}\right)\ }\right]}{\left[\hbar \omega_y\frac{\omega_y}{\Omega_y} \left(n+\frac{1}{2}\right)+\hbar \omega_z\left(m+\frac{1}{2}\right)+ 2\Delta_c\right]^2}}+\\
@@ -186,13 +242,21 @@ F\left(\xi_{nm}\right)=\int\limits^{\infty }_0 {\frac{dx}{\exp \left(x^2-\beta {
 
 Зависимость подвижности в относительны единица $\widetilde{\mu}=\mu(E)/\mu(0)$ от электрического поля
 
+<br>
+
+<div style="text-align: center;">
 <img src="./images/fig_4_3_1.jpg" width="50%">
+</div>
 
 
 
 ### Термоэдс в нанопроволоках Bi в попереченом постоянном электрическом поле
 
+<br>
+
 #### Термоэдс в массивных образцах
+
+<br>
 
 `
 \[
@@ -200,7 +264,11 @@ F\left(\xi_{nm}\right)=\int\limits^{\infty }_0 {\frac{dx}{\exp \left(x^2-\beta {
 \]
 `
 
+<br>
+
 #### Термоэдс в низкоразмерных структурах
+
+<br>
 
 `
 \[
@@ -208,6 +276,12 @@ F\left(\xi_{nm}\right)=\int\limits^{\infty }_0 {\frac{dx}{\exp \left(x^2-\beta {
 \]
 ` 
 
+
+<br>
+
+<br>
+
+<br>
 
 `
 \[
@@ -226,6 +300,10 @@ F\left(\xi_{nm}\right)=\int\limits^{\infty }_0 {\frac{dx}{\exp \left(x^2-\beta {
 
 #### Термоэдс с учетом электронов и дырок
 
+<br>
+
+<br>
+
 `
 \[
 \alpha _{xx} =-\frac{k_0}{e} \left\{\sum_{n,m}\left[\nu \frac{F_2 \left(\eta_{nm}^c \right)-\eta _{nm}^c F_1 \left(\eta_{nm}^c \right)}{\left(n+m+1+N_c \right)^2 } -\frac{F_2 \left(\eta_{nm}^v \right)-\eta_{nm}^v F_1 \left(\eta_{nm}^v \right)}{b\left(n+m+1+aN_c \right)^2 } \right] \right\}\times\\
@@ -242,6 +320,10 @@ b=\frac{\Delta E_v }{\Delta E_c } , \\
 \]
 `
 
+
+<br>
+
+<br>
 
 `
 \[
@@ -272,6 +354,8 @@ F_{\frac{1}{2}} (\eta )=-\frac{\sqrt(\pi)}{2}\mathrm{Li}_{\frac{1}{2}}[-\exp(\et
 
 
 #### Химический потенциал
+
+<br>
 
 `
 \[
@@ -304,4 +388,8 @@ F_{\frac{1}{2}} (\eta )=-\frac{\sqrt(\pi)}{2}\mathrm{Li}_{\frac{1}{2}}[-\exp(\et
 
 Зависимость удельной термоэдс квантовой проволоки от напряженности поперечного электрического поля
 
+<br>
+
+<div style="text-align: center;">
 <img src="./images/fig_4_4_2.jpg" width="65%">
+</div>

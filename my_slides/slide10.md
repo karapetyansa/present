@@ -1,10 +1,17 @@
+
+<br>
+
+<br>
+
 # Глава 1
 
 ## **Рассеяние носителей на шероховатой поверхности**
 
 
 
-## Механизм рассеяния на шероховатой поверхности
+### Механизм рассеяния на шероховатой поверхности
+
+<br>
 
 <div id="left">
 <br>
@@ -33,7 +40,7 @@ E_n = \frac{\hbar^2 \pi^2 n^2}{2ma^2} \equiv E_0 n^2 \Rightarrow V_n = -\frac{2}
 \]
 `
 
-------
+<br>
 
 ### Для квантовой ямы с параболическим потенциалом:
 
@@ -57,6 +64,7 @@ $\hbar \omega_e$ — энергия размерного квантования.
 
 ### Флуктуация поверхности в случае квантовой ямы
 
+<br>
 #### **Гауссова:** 
 `
 \[
@@ -65,6 +73,8 @@ $\hbar \omega_e$ — энергия размерного квантования.
 `
 <br>
 здесь: $\left| \boldsymbol{\rho} - \boldsymbol{\rho'} \right| = \sqrt{(x-x')^2 + (y-y')^2}$, $\Delta, \Lambda$ — высота и ширина гауссовой флуктуации соответственно, `$\left\{ ... \right\}_V$` описывает усреднение по реализации случайного процесса, $\Delta(x,y)$
+
+<br>
 
 #### **$\delta$-образная:**
 `
@@ -79,12 +89,18 @@ $\gamma_0$ определяет квадрат амплитуды флуктуа
 
 ### Флуктуация поверхности для одномерного электронного газа
 
+<br>
+
+<br>
+
 #### **Гауссова:**
 `
 \[
 \left\{\Delta(x)\Delta(x')\right\}=\Delta^2_0 \exp \left[-\frac{(x-x')^2}{\Lambda^2_0}\right] = F_0(x-x')
 \]
 `
+
+<br>
 
 #### **$\delta$-образная:**
 `
@@ -95,7 +111,9 @@ $\gamma_0$ определяет квадрат амплитуды флуктуа
 
 
 
-## Формула кубо
+### Формула кубо
+
+<br>
 
 `
 \[
@@ -122,6 +140,9 @@ a_{\alpha }^+ (t)= \exp\left(\frac{it\hat{H}}{\hbar } \right)a_{\alpha }^+ \exp\
 
 ### Приближение времени релаксации
 
+<br>
+<br>
+
 `
 \[
 \sigma_{ij}=\frac{\beta_0e^2}{Vm^2_e}\sum_{\alpha }{\left|{\hat{P}}^{(i)}_{\alpha \alpha }\right|}^2n_{\alpha }\left(1-n_{\alpha }\right)\tau_{\alpha \alpha }
@@ -142,19 +163,24 @@ K(\Omega) = \frac{4\pi e^2}{\hbar c V n_0 \Omega} \left| \frac{\boldsymbol{\math
 
 `
 \[
-W_{\alpha\beta}=\int{d\boldsymbol{\mathbf{r}} d\boldsymbol{\mathbf{r_1}} \Psi^*_\alpha(\boldsymbol{\mathbf{r}}) \Psi^*_\beta(\boldsymbol{\mathbf{r_1}}) V_\alpha V_\beta F \Psi_\alpha(\boldsymbol{\mathbf{r}}) \Psi_\beta(\boldsymbol{\mathbf{r_1}})}
+W_{\alpha\beta}=\int{d\boldsymbol{\mathbf{r}} d\boldsymbol{\mathbf{r_1}} \Psi^*_\alpha(\boldsymbol{\mathbf{r}}) \Psi^*_\beta(\boldsymbol{\mathbf{r_1}}) V_\alpha V_\beta F \Psi_\alpha(\boldsymbol{\mathbf{r}}) \Psi_\beta (\boldsymbol{\mathbf{r_1}})}
 \]
 `
 
 
 
 ### Время релаксации для различных систем:
+
+<br>
+
 #### Квазидвумерные системы с бесконечным потенциалом и гауссовой флуктуации поверхности
 `
 \[
 \frac{1}{\tau_a}=\frac{m_e}{\hbar^3}\pi{(\Delta \Lambda)}^2 V_n^2 \exp{\left[-\frac{1}{2}(\Lambda k_\bot )^2\right]} \mathrm{I}_0 \left[\frac{1}{2}(\Lambda k_\bot)^2\right]
 \]
 `
+
+<br>
 
 При низких температурах, когда $\Lambda k_\bot \ll 1$:
 `
@@ -171,12 +197,20 @@ W_{\alpha\beta}=\int{d\boldsymbol{\mathbf{r}} d\boldsymbol{\mathbf{r_1}} \Psi^*_
 `
 
 
+<br>
+
+<br>
+
 #### Одномерные квантовые системы с гауссовой флуктуацией поверхности
 `
 \[
 \frac{1}{\tau_\alpha}=\frac{2 m_e}{\hbar^3} \frac{V_n^2}{\left|k_x\right|} \frac{\Delta^2_0\Lambda_0\sqrt{\pi}}{2} \left(1+\exp\left[-\Lambda^2_0 k^2_x \right] \right)
 \]
 `
+
+<br>
+
+<br>
 
 #### Одномерные квантовые системы с $\delta$-образной флуктуации поверхности
 `
@@ -229,6 +263,11 @@ k_{\bot }^2 =k_x^2 +k_y^2, \;
 
 
 ### Взаимодействие с шероховатой поверхностью
+
+<br>
+
+<br>
+
 `
 \[
 W_{n} =\frac{\partial E_n }{\partial a} \Delta(x,y) \equiv -\frac{1}{a} \left[ E_n +2\Delta_c \right] \Delta (x,y)=V_n \Delta (x,y)

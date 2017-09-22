@@ -1,3 +1,8 @@
+
+<br>
+
+<br>
+
 # Глава 3
 
 ## **Влияние шероховатой поверхности на кинетические эффекты в низкоразмерных системах**
@@ -5,6 +10,9 @@
 
 
 ### Электропроводность прямоугольной КЯ с бесконечным потенциалом с гауссовой флуктуацией поверхности
+
+<br>
+
 <br>
 
 `
@@ -23,6 +31,7 @@
 
 #### Невырожденный электронный газ
 
+<br>
 `
 \[
 \mu ^{(nd)} =\mu _{0} \delta^2 \int\limits_0^\infty {d\tau \frac{\tau \cdot \exp \left[-\left(\delta -1\right)\tau \right]}{\mathrm{I}_0 (\tau )}}
@@ -34,8 +43,13 @@
 \] 
 `
 
+<br>
+
+<br>
+
 #### Вырожденный электронный газ
 
+<br>
 `
 \[
 \sigma _{xx}^{(d)} =\frac{e^2 \hbar \tilde{\xi }}{\pi^2 L m_e \left(\Delta \Lambda V_{1} \right)^2 } \frac{\exp{\left(\frac{m_e \Lambda^2 }{\hbar^2 } \tilde{\xi }\right)}}{\mathrm{I}_0 \left(\frac{m_e \Lambda^2 }{\hbar^2 } \tilde{\xi }\right)}
@@ -45,7 +59,10 @@
 
 Температурная зависимость подвижности (в относительных единицах) при учете рассеяния носителей на шероховатой поверхности в КЯ при $\Lambda =70 Å$, $\Delta =3 Å$, $L_0 = 100 Å$, кривые 1, 2, 3 получены соответственно для $n_s = 10^{11} \text{cm}^{-2}$, $n_s = 7 \cdot 10^{11} \text{cm}^{-2}$, $n_s = 1.5 \cdot 10^{12} \text{cm}^{-2}$
 
+<br>
+<div style="text-align: center;">
 <img src="./images/fig_3_1_1.jpg" width="50%">
+</div>
 
 
 
@@ -72,12 +89,15 @@
 
 Температурная зависимость подвижности (в относительных единицах) при учете рассеяния носителей на шероховатой поверхности в КП при $\Lambda =20 Å$, $\Delta =2 Å$, $R_0=100 Å$, кривые 1, 2, 3 получены соответственно для $n_l = 10^5 \text{cm}^{-1}$, $n_l = 5 \cdot 10^5 \text{cm}^{-1}$,$n_s = 10^6 \text{cm}^{-1}$
 
+<br>
+<div style="text-align: center;">
 <img src="./images/fig_3_1_2.jpg" width="50%">
+</div>
 
 
 
-## Учет двух механизмов рассеяния
-
+### Учет двух механизмов рассеяния
+<br>
 `
 \[
 \sigma _{xx} =\frac{\beta_0 e^2 }{Vm^2 } \sum _{\alpha }\left|\hat{p}_{\alpha \alpha }^{(x)} \right|^2 \frac{\tau _{\alpha } \tau_{\alpha }^f }{\tau_{\alpha } +\tau_{\alpha }^f } n_{\alpha } \left(1-n_{\alpha } \right)
@@ -89,7 +109,6 @@
 \frac{1}{\tau_{\alpha }^f } = \frac{3 E_1^2 m}{\beta_0 \hbar^3 \rho \nu^2 L}
 \]
 `
-
 
 `
 \[
@@ -105,14 +124,23 @@
 \]
 `
 
+
 #### Невырожденный электронный газ
+
+<br>
 `
 \[
 \mu ^{(nd)} =\mu_0 \cdot \delta^3 \gamma \int\limits_0^{\infty}{d\tau \frac{\tau \cdot \exp(-\tau \delta )}{\delta \gamma \cdot \exp(-\tau ) \mathrm{I}_0 (\tau )+1}}
 \]
 `
 
+<br>
+
+<br>
+
 #### Вырожденный электронный газ
+
+<br>
 `
 \[
 \sigma _{xx}^{(d)} =\frac{e^2 \hbar^3 }{\pi^2 m^2 \left(\Delta \Lambda^2 V_0 \right)^2 L} \cdot 
@@ -123,11 +151,18 @@
 
 Температурная зависимость подвижности (в относительных единицах) при учете рассеяния носителей на шероховатой поверхности и на фононах в КЯ при $\Lambda =70 Å$, $\Delta =3 Å$, $L_{0}=100 Å$, кривые 1, 2, 3 получены соответственно для $n_s = 10^{11} \text{cm}^{-2}$, $n_s = 7 \cdot 10^{11} \text{cm}^{-2}$, $n_s = 1.5 \cdot 10^{12} \text{cm}^{-2}$
 
+<br>
+
+<div style="text-align: center;">
 <img src="./images/fig_3_1_3.jpg" width="50%">
+</div>
 
 
 
 ### Рассеяние носителей на шероховатой поверхности в магнитном поле в КЯ
+
+<br>
+
 Продольное магнитное поле ($\boldsymbol{\mathbf{H}} \parallel OX$, размерное квантование по $OZ$)
 `
 \[
@@ -151,7 +186,9 @@ z^{(c)}_0=-\frac{\hbar \omega_c k_x}{m_e \Omega^2}
 `
 
 
-Взаимодействие с шероховатой поверхностью
+#### Взаимодействие с шероховатой поверхностью
+
+<br>
 
 `
 \[
@@ -170,7 +207,9 @@ V_{\alpha} = \frac{\partial E_{\alpha }}{\partial L}=\hbar \left[\frac{\hbar\ome
 P^{(x)}_{\alpha\beta} =\hbar k_x \delta_{\alpha\beta}.
 \]
 `
+
 <br>
+
 `
 \[
 \sigma_{xx} = \frac{e^2 k_0 T \hbar}{\pi \gamma_0 m_e L 4 V^2_0} \sum_n{\frac{\ln{\left\{\exp{\left[\beta \left(\widetilde{\xi}-\hbar \Omega n\right)\right]}+1\right\}}}{\left(n+\frac{1}{2}\right)}^2}
@@ -180,13 +219,22 @@ P^{(x)}_{\alpha\beta} =\hbar k_x \delta_{\alpha\beta}.
 
 Электропроводность в квантовом пределе, когда все носители находятся на нижайшем уровне Ландау 
 
+<br>
+
 `
 \[
 \sigma_{xx} =\frac{e^2 \hbar^3 n_e}{m^2 \gamma V_0^2 } \left[\frac{\omega }{\Omega } \right]
 \]
 `
 
+<br>
+
+<br>
+
 Подвижность
+
+<br>
+
 `
 \[
 \mu _{xx} =\frac{4e\hbar }{m^2 \gamma } \left(\frac{\partial \omega }{\partial L} \right)^{-2} \left[1+\left(\frac{\omega_c}{\omega } \right)^2 \right]^{\frac{1}{2} }
@@ -197,11 +245,17 @@ P^{(x)}_{\alpha\beta} =\hbar k_x \delta_{\alpha\beta}.
 
 ### Поперечное магнитное поле
 
+<br>
+
 `
 \[
 P^{(y)}_{\alpha\beta} = {\left(\frac{\omega}{\Omega}\right)}^2 \hbar k_y \delta_{\alpha\beta} - \frac{m_e \omega_c}{\sqrt{2\lambda}} \left(\sqrt{n+1} \delta_{n-1,n'} + \sqrt{n} \delta_{n+1,n'} \right) \delta_{k_x k'_x} \delta_{k_y k'_y}
 \]
 `
+
+<br>
+
+<br>
 
 Подвижность в диагональном приближении
 
@@ -220,6 +274,9 @@ P^{(y)}_{\alpha\beta} = {\left(\frac{\omega}{\Omega}\right)}^2 \hbar k_y \delta_
 
 
 ### Рассеяние носителей на шероховатой поверхности в магнитном поле в КП
+
+<br>
+
 `
 \[
 \sigma _{xx} =\frac{4\hbar e^{2} }{2\beta \pi sm\gamma _{0} } \sum _{n\nu }\frac{1}{V_{n\nu }^{2} } \ln \left[1+\exp \left\{\beta \xi _{n\nu } \right\}\right]
@@ -240,13 +297,23 @@ V_{\alpha } =\frac{4}{\left[4+\delta^2 \right]^{\frac{1}{2} } } \left[n+\frac{1}
 
 
 #### Подвижность невырожденного электронного газа
+
+<br>
+
 `
 \[
 \mu_x^{\left(nd\right)} =\frac{eR_0^{4} \left[4+\left(\frac{\omega_c }{\omega } \right)^2 \right]}{4 \gamma_0 \left(\Delta E_c \right)\sqrt{2m_e\beta \pi } }
 \]
 `
 
+<br>
+
+<br>
+
 #### Подвижность невырожденного электронного газа
+
+<br>
+
 `
 \[
 \mu_x^{(d)} =\frac{e\pi \left[4+\left(\frac{\omega_c }{\omega } \right)^2 \right] n_e \hbar R_0^4 }{8m_e\gamma_0 \left(\Delta E_c \right)} 
@@ -255,6 +322,7 @@ V_{\alpha } =\frac{4}{\left[4+\delta^2 \right]^{\frac{1}{2} } } \left[n+\frac{1}
 
 
 Зависимость относительного сопротивления от магнитного поля для нанопроволоки висмута ($d=80 \text{ nm}$, $T=4.2\text{ K}$). Пунктирной линией показана зависимость $R(H)/R(0)$ при учете рассеяния носителей на поверхности, сплошной линией при учете рассеяния носителей на шероховатой поверхности и на акустических фононах.
-
+<br>
+<div style="text-align: center;">
 <img src="./images/fig_3_2_1.jpg" width="50%">
-
+</div>

@@ -1,6 +1,6 @@
 #left {
     left: -8.33%;
-    /* text-align: left; */
+    text-align: center;
     float: left;
     width: 50%;
     z-index: -10;
@@ -10,14 +10,14 @@
     left: 31.25%;
     top: 75px;
     float: right;
-    /* text-align: right; */
+    text-align: center;
     z-index: -10;
     width: 50%;
   }
 
   #left23 {
     left: -8.33%;
-    /* text-align: left; */
+    text-align: center;
     float: left;
     width: 66%;
     z-index: -10;
@@ -27,7 +27,7 @@
     left: 31.25%;
     top: 75px;
     float: right;
-    /* text-align: right; */
+    text-align: center;
     z-index: -10;
     width: 34%;
   }
