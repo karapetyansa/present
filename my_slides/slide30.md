@@ -137,7 +137,7 @@
 <br>
 `
 \[
-E_{\alpha }=\frac{{\hbar }^2 k^2_x}{2m_e}+{\left(\frac{\omega }{\Omega }\right)}^2\frac{\hbar^2 k^2_y}{2m_e} +\hbar\Omega \left(n+\frac{1}{2}\right)
+E_{\alpha }=\frac{\hbar^2 k^2_x}{2m_e}+{\left(\frac{\omega }{\Omega }\right)}^2\frac{\hbar^2 k^2_y}{2m_e} +\hbar\Omega \left(n+\frac{1}{2}\right)
 \]
 `
 
