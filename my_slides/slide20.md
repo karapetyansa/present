@@ -223,7 +223,7 @@ m^*_e=m_e{\left(\frac{\Omega_e}{\omega_e}\right)}^2,\;
 
 `
 \[
-{\left| P^X_{\alpha \beta }\right|}^2=\frac{\delta^2}{{\sqrt{\left({1+\delta }^2\right)} }}{\left|P^Y_{\alpha \beta }\right|}^2, \;
+{\left| P^X_{\alpha \beta }\right|}^2=\frac{\delta^2}{\sqrt{\left(1+\delta^2\right)}}{\left|P^Y_{\alpha \beta }\right|}^2, \;
 \delta =\frac{\omega_c}{\omega_e},\\
 \left| P^Y_{\alpha \beta }\right|^2=
 \frac{m_e \sqrt{\left({1+\delta }^2\right)} \hbar\omega_e}{2} \left[  n \delta_{n,n_1+1} + (n+1) \delta_{n,n_1-1} \right]\delta_{k_x,k_x'}\delta_{m,m_1} , \\
