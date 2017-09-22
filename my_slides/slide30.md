@@ -173,7 +173,7 @@ P^{(x)}_{\alpha\beta} =\hbar k_x \delta_{\alpha\beta}.
 <br>
 `
 \[
-\sigma_{xx} = \frac{e^2 k_0 T \hbar}{\pi \gamma_0 m_e L 4V^2_0} \sum_n{\frac{\ln{\left\{\exp{\left[\beta \left(\widetilde{\xi}-\hbar \Omega n\right)\right]}+1\right\}}}{{\left(n+\frac{1}{2}\right)}^2}}
+\sigma_{xx} = \frac{e^2 k_0 T \hbar}{\pi \gamma_0 m_e L 4 V^2_0} \sum_n{\frac{\ln{\left\{\exp{\left[\beta \left(\widetilde{\xi}-\hbar \Omega n\right)\right]}+1\right\}}}{\left(n+\frac{1}{2}\right)}^2}
 \]
 `
 
