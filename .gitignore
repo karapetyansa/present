@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+
+.travis.yml
+bower.json
+CONTRIBUTING.md
+demo.html
+Gruntfile.js
+LICENSE
+package.json
