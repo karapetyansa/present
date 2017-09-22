@@ -262,8 +262,9 @@ K\left(\Omega\right)=K_0\sum_{nm}{ {\lvert\langle \alpha_c | \alpha_v \rangle\rv
 <br>
 `
 \[
-\Phi \left(z\right)=\frac{2}{\sqrt{\pi }}\int\limits_{0}^z {e^{-{\tau}^2}}d\tau , \\
-f\left(x\right)={\left(\frac{{\omega }^2_f}{4a}\right)}^{\frac{1}{2}}\frac{1}{x}\left[1-ix\left(\frac{\Delta }{\hbar {\omega }_f}-x^2\right)\right],\ \ \Delta =\hbar \Omega-E^*_g
+\Phi \left(z\right)=\frac{2}{\sqrt{\pi}}\int\limits_0^z {e^{-\tau^2}}d\tau , \\
+f\left(x\right)={\left(\frac{\omega^2_f}{4a}\right)}^{\frac{1}{2}}\frac{1}{x}\left[1-ix\left(\frac{\Delta }{\hbar \omega_f}-x^2\right)\right],\;
+\Delta =\hbar \Omega-E^*_g
 \]
 `
 
@@ -277,8 +278,8 @@ f\left(x\right)={\left(\frac{{\omega }^2_f}{4a}\right)}^{\frac{1}{2}}\frac{1}{x}
 
 `
 \[
-K\left(\Omega\right)=K_0{\left|\left\langle \widetilde{\alpha }_c |\widetilde{\alpha }_v\right\rangle \right|}^2 4{\left[\frac{2{\mu }^*{\omega }_f}{\hbar a}\right]}^{\frac{1}{2}}\times \\
-\times Re\int\limits^{\infty }_0{dx}f\left(x\right)\left\{-\sqrt{\pi }f\left(x\right)e^{f^2\left(x\right)}\left[1-\Phi \left(f\left(x\right)\right)\right]+1\right\}
+K\left(\Omega\right)=K_0{\left|\left\langle \widetilde{\alpha }_c |\widetilde{\alpha }_v\right\rangle \right|}^2 4{\left[\frac{2{\mu }^*{\omega }_f}{\hbar a}\right]}^{\frac{1}{2}}\times\\
+\times Re\int\limits^{\infty }_0 {dx} f(x)\left\{-\sqrt{\pi }f\left(x\right)e^{f^2\left(x\right)}\left[1-\Phi \left(f\left(x\right)\right)\right]+1\right\}
 \]
 `
 
