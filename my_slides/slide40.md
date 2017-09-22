@@ -147,13 +147,13 @@ p\sqrt{\frac{m_c }{m_v } } \sum_{n,m}\int\limits_{0}^{\infty }{\frac{dx}{\exp \l
 
 `
 \[
-{\hat{P}}^{\left(x\right)}_{\alpha \beta }=\hbar k_x{\left(\frac{{\omega }_y}{{\Omega }_y}\right)}^2{\delta }_{\alpha \beta }
+\hat{P}^{(x)}_{\alpha \beta }=\hbar k_x{\left(\frac{\omega_y}{\Omega_y}\right)}^2 \delta_{\alpha \beta }
 \]
 `
 <br>
 `
 \[
-\sigma_{xx}=\frac{2 e^2\hbar}{\beta_0 \pi^2 m^*_x \gamma_0} \sum_{nm}{\frac{\ln \left[1+\exp\left(\beta_0 \xi_{nm}\right)\right]}{{\left[\hbar {\omega }_y\frac{\omega_y}{\Omega_y}\left(n+\frac{1}{2}\right)+\hbar \omega_z\left(m+\frac{1}{2}\right)+2\Delta_c\right]}^2}} 
+\sigma_{xx}=\frac{2 e^2\hbar}{\beta_0 \pi^2 m^*_x \gamma_0} \sum_{nm}{\frac{\ln \left[1+\exp\left(\beta_0 \xi_{nm}\right)\right]}{{\left[\hbar \omega_y \frac{\omega_y}{\Omega_y}\left(n+\frac{1}{2}\right)+\hbar \omega_z\left(m+\frac{1}{2}\right)+2\Delta_c\right]}^2}} 
 \]
 `
 <br>
