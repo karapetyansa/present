@@ -193,7 +193,7 @@ K(\Omega )=K_0 \sum _{n} \, V_n^2 \times  \\
 
 `
 \[
-E_{\alpha }=\frac{{\hbar }^2k^2_x}{2m^*_e}+\hbar \Omega_e\left(n+\frac{1}{2}\right)+\hbar {\omega }_e\left(m+\frac{1}{2}\right)
+E_{\alpha }=\frac{\hbar^2 k^2_x}{2m^*_e}+\hbar \Omega_e\left(n+\frac{1}{2}\right)+\hbar {\omega }_e\left(m+\frac{1}{2}\right)
 \]
 `
 <br>
