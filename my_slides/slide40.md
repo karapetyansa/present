@@ -11,8 +11,9 @@
 
 ### Подвижность в поперечном электрическом поле
 
-<br>
+Из формулы Кубо получено выражение для электропроводности:
 
+<br>
 `
 \[
 \sigma_{xx} =\frac{e^2 }{a\pi \hbar^2 \beta_0 } \sum_n\tau_n \ln \left(1+e^{-\beta \xi_n } \right)
@@ -20,8 +21,6 @@
 `
 
 <br>
-<br>
-
 Подвижность невырожденного газа
 
 `
@@ -41,13 +40,18 @@
 
 ### Учет двух механизмов рассеяния
 
-<br>
-
-<br>
+Правило Маттисена
 
 `
 \[
 \frac{1}{\tau_n } =\frac{1}{\tau_0 } +\frac{1}{\tau_f }
+\]
+`
+
+`
+\[
+\frac{1}{\tau_0 } =\frac{\gamma_0 m_e (\hbar\omega)^2 }{2 \hbar^3 a^2 } (1 + 2 N_c )^2, \;
+N_c =\frac{2\Delta_c }{\hbar \omega } 
 \]
 `
 
@@ -73,7 +77,7 @@
 
 ### Влияние поперечного электрического поля на подвижность в нанопроволоках
 
-<br>
+Энергия носителей заряда в параболической квантовой проволоке в поперечном электрическом поле
 
 `
 \[
@@ -103,7 +107,7 @@ E_{nm}^v =\hbar \omega_v \left(n+k+1\right)-\Delta_v ,
 `
 
 
-Схема зонной структуры, рассматриваемой низкоразмерной структуры. Сплошными линиями показаны две нижайшие размерно-квантованные зоны ($c$ — зоны проводимости, $v$ — валентные зоны) , пунктирными линиями изображены две нижайшие размерно-квантованные зоны в поперечном электрическом поле; $\xi $ — химический потенциал
+Схема зонной структуры рассматриваемой низкоразмерной системы. Сплошными линиями показаны две нижайшие размерно-квантованные зоны ($c$ — зоны проводимости, $v$ — валентные зоны) , пунктирными линиями изображены две нижайшие размерно-квантованные зоны в поперечном электрическом поле; $\xi $ — химический потенциал
 <br>
 <div style="text-align: center;">
 <img src="./images/fig_4_4_1.jpg" width="50%">
@@ -111,7 +115,7 @@ E_{nm}^v =\hbar \omega_v \left(n+k+1\right)-\Delta_v ,
 
 
 
-### Подвижности для электронов и дырок
+### Подвижность носителей заряда
 
 <br>
 
@@ -137,16 +141,16 @@ F(\eta_{nm}^c )=\int\limits_0^{\infty }{\frac{dx}{\exp \left(x^2 -\eta_{nm}^c \r
 
 #### Условие электронейтральности
 
-<br>
-
-<br>
-
 `
 \[
 p\sqrt{\frac{m_c }{m_v } } \sum_{n,m}\int\limits_{0}^{\infty }{\frac{dx}{\exp \left(x^2 -\eta_{nm}^c \right)+1}}  =
 \sum_{n,m}\int\limits_0^{\infty}{\frac{dx}{\exp \left(x^2 -\eta_{nm}^v \right)+1}}
 \]
 `
+<div style="text-align: center;">
+<video height="400" controls data-autoplay src="./images/chemical.mp4" type="video/mp4"></video>
+</div>
+
 
 
 ### Частные случаи
@@ -240,7 +244,7 @@ F\left(\xi_{nm}\right)=\int\limits^{\infty }_0 {\frac{dx}{\exp \left(x^2-\beta {
 `
 
 
-Зависимость подвижности в относительны единица $\widetilde{\mu}=\mu(E)/\mu(0)$ от электрического поля
+Зависимость подвижности в относительны единицах $\widetilde{\mu}=\mu(E)/\mu(0)$ от электрического поля
 
 <br>
 
@@ -252,11 +256,7 @@ F\left(\xi_{nm}\right)=\int\limits^{\infty }_0 {\frac{dx}{\exp \left(x^2-\beta {
 
 ### Термоэдс в нанопроволоках Bi в попереченом постоянном электрическом поле
 
-<br>
-
 #### Термоэдс в массивных образцах
-
-<br>
 
 `
 \[
@@ -264,11 +264,7 @@ F\left(\xi_{nm}\right)=\int\limits^{\infty }_0 {\frac{dx}{\exp \left(x^2-\beta {
 \]
 `
 
-<br>
-
 #### Термоэдс в низкоразмерных структурах
-
-<br>
 
 `
 \[
@@ -276,20 +272,13 @@ F\left(\xi_{nm}\right)=\int\limits^{\infty }_0 {\frac{dx}{\exp \left(x^2-\beta {
 \]
 ` 
 
-
-<br>
-
-<br>
-
-<br>
-
 `
 \[
 \gamma_{xx} = \int\limits_{- \infty }^{\infty}{\left\langle \hat{j_x}(t) \hat{Q}_x \right\rangle  dt} =
 \frac{e \hbar^2 }{2 k_0 TV m_e^2} \sum_{\alpha}{\left( E_{\alpha} - \xi \right) k_x^2 \tau_{\alpha} n_{\alpha}\left( 1 - n_{\alpha} \right) }
 \]
-` 
-<br>
+`
+
 `
 \[
 \sigma_{xx} = \int\limits_{- \infty }^{\infty}{\left\langle \hat{j}_x(t) \hat{j}_x \right\rangle  dt} =
@@ -373,7 +362,7 @@ F_{\frac{1}{2}} (\eta )=-\frac{\sqrt(\pi)}{2}\mathrm{Li}_{\frac{1}{2}}[-\exp(\et
 
 `
 \[
-\alpha_{xx}^{(d)} =-\frac{k_0 }{e} \frac{\pi^3 }{3} \frac{1-\frac{1}{b\nu } \left(\frac{1+N_c }{1+aN_c } \right)^2 }{\Delta +\Delta_v -\left(\hbar \omega_c +\hbar \omega_v \right)}
+\alpha_{xx}^{(d)} =-\frac{k_0 }{e} \cdot \frac{\pi^3 }{3} \cdot \frac{1-\frac{1}{b\nu } \left(\frac{1+N_c }{1+aN_c } \right)^2 }{\Delta +\Delta_v -\left(\hbar \omega_c +\hbar \omega_v \right)}
 \]
 `
 

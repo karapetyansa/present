@@ -111,7 +111,7 @@ $\gamma_0$ определяет квадрат амплитуды флуктуа
 
 
 
-### Формула кубо
+### Формула Кубо
 
 <br>
 
@@ -151,7 +151,7 @@ a_{\alpha }^+ (t)= \exp\left(\frac{it\hat{H}}{\hbar } \right)a_{\alpha }^+ \exp\
 
 `
 \[
-K(\Omega) = \frac{4\pi e^2}{\hbar c V n_0 \Omega} \left| \frac{\boldsymbol{\mathbf{P_{\alpha\beta}}} \boldsymbol{\mathbf{\xi}}}{m_e^2} \right| \sum_{\alpha\beta}{\frac{\tau_{\alpha\beta}n_{\alpha}}{1+\frac{\tau^2_{\alpha\beta}}{\hbar^2}(\hbar\Omega+E_{\alpha}-E_{\beta})^2}}
+K(\Omega) = \frac{4\pi e^2}{\hbar c V n_0 \Omega} \left| \frac{\boldsymbol{\mathbf{P_{\alpha\beta}}} \boldsymbol{\mathbf{\xi}}}{m_e} \right|^2 \sum_{\alpha\beta}{\frac{\tau_{\alpha\beta}n_{\alpha}}{1+\frac{\tau^2_{\alpha\beta}}{\hbar^2}(\hbar\Omega+E_{\alpha}-E_{\beta})^2}}
 \]
 `
 
@@ -204,7 +204,7 @@ W_{\alpha\beta}=\int{d\boldsymbol{\mathbf{r}} d\boldsymbol{\mathbf{r_1}} \Psi^*_
 #### Одномерные квантовые системы с гауссовой флуктуацией поверхности
 `
 \[
-\frac{1}{\tau_\alpha}=\frac{2 m_e}{\hbar^3} \frac{V_n^2}{\left|k_x\right|} \frac{\Delta^2_0\Lambda_0\sqrt{\pi}}{2} \left(1+\exp\left[-\Lambda^2_0 k^2_x \right] \right)
+\frac{1}{\tau_\alpha}=\frac{2 m_e}{\hbar^3} \cdot \frac{V_n^2}{\left|k_x\right|} \cdot \frac{\Delta^2_0\Lambda_0\sqrt{\pi}}{2} \left(1+\exp\left[-\Lambda^2_0 k^2_x \right] \right)
 \]
 `
 
@@ -212,10 +212,10 @@ W_{\alpha\beta}=\int{d\boldsymbol{\mathbf{r}} d\boldsymbol{\mathbf{r_1}} \Psi^*_
 
 <br>
 
-#### Одномерные квантовые системы с $\delta$-образной флуктуации поверхности
+#### Одномерные квантовые системы с $\delta$-образной флуктуацией поверхности
 `
 \[
-\frac{1}{\tau_\alpha}=\frac{2 m_e}{\hbar^3} \frac{V_n^2}{\left|k_x\right|}\gamma_0
+\frac{1}{\tau_\alpha}=\frac{2 m_e}{\hbar^3} \cdot \frac{V_n^2}{\left|k_x\right|}\gamma_0
 \]
 `
 

@@ -16,3 +16,6 @@
 
 <span style="font-size:0.8em">Тирасполь, 2017</span>
 <!-- Для нумерации TeX формул нужно использловать \tag{хх} -->
+Note:
+- Continuous level
+- Discrete level. $$E_{m,n} > 0$$, scheme-dependent.

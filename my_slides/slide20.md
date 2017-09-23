@@ -155,7 +155,7 @@ K(\Omega )=\frac{4\pi e^2 }{V n_0 c\hbar \Omega } \left|\frac{p_{cv} \xi_0 }{m_0
 `
 
 
-### Магнитоинфрокрасный резонанс в объемном материале
+### Магнитоинфракрасный резонанс в объемном материале
 
 <br>
 
@@ -183,7 +183,7 @@ K(\Omega )=\frac{2e^2 }{n_0 c\hbar R^2 } \left|\frac{p_{cv} \xi_0 }{m_0 } \right
 </div>
 
 
-Частотная зависимость второго пика магнето-поглощения в режиме магнитоинфракрасного резонанса. Кривые 1, 2, 3 получены соответственно для $a=0$; $a=0.4$; $a=0.8$
+Частотная зависимость второго пика магнетопоглощения в режиме магнитоинфракрасного резонанса. Кривые 1, 2, 3 получены соответственно для $a=0$; $a=0.4$; $a=0.8$
 
 <br>
 <div style="text-align: center;">
@@ -251,6 +251,7 @@ m^*_e=m_e{\left(\frac{\Omega_e}{\omega_e}\right)}^2,\;
 
 
 Гамильтониан в представлении вторичного квантования для электронов в зоне проводимости в состоянии $\alpha $ в поле лазерного излучения поляризацией $\boldsymbol{\mathbf{\xi}}$
+
 <br>
 `
 \[
@@ -259,7 +260,6 @@ m^*_e=m_e{\left(\frac{\Omega_e}{\omega_e}\right)}^2,\;
 `
 
 <br>
-
 Матричные элементы оператора импульса $\boldsymbol{\mathbf{P}}_{\alpha\alpha_1}$ на волновых функциях параболической квантовой проволоки в продольном магнитном поле
 
 `
@@ -327,13 +327,19 @@ f\left(x\right)={\left(\frac{\omega^2_f}{4a}\right)}^{\frac{1}{2}}\frac{1}{x}\le
 ### Оптический переход II
 
 <br>
-
-<br>
-
 `
 \[
 K\left(\Omega\right)=K_0{\left|\left\langle \widetilde{\alpha }_c |\widetilde{\alpha }_v\right\rangle \right|}^2 4{\left[\frac{2{\mu }^*{\omega }_f}{\hbar a}\right]}^{\frac{1}{2}}\times\\
 \times Re\int\limits^{\infty }_0 {dx} f(x)\left\{-\sqrt{\pi }f\left(x\right)e^{f^2\left(x\right)}\left[1-\Phi \left(f\left(x\right)\right)\right]+1\right\}
+\]
+`
+
+<br>
+При $\xi <1$ форма линии поглощения определяется интенсивностью резонансного ИК излучения
+`
+\[
+K\left(\Omega\right)=K_0{\left|\left\langle \widetilde{\alpha }_c |\widetilde{\alpha }_v\right\rangle \right|}^2 \pi z{\left[\frac{2^* \pi }{\hbar }{\left(\frac{8z}{a}\right)}^{1/2}\right]}^{1/2}e^{-z}\times\\
+\times \left\{-\left[I_{3/4}\left(z\right)+\mathrm{sign}(\Delta) I_{-3/4}\left(z\right)\right]+\left(1+\frac{1}{4z}\right)\left[(I_{-1/4}\left(z\right)+ \mathrm{sign}(\Delta)  I_{1/4}\left(z\right)\right]\right\}
 \]
 `
 
