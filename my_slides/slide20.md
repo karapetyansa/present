@@ -11,6 +11,7 @@
 
 ### Межподзонное поглощение света
 
+Схема оптических переходов
 <br>
 <div style="text-align: center;">
     <img src="./images/fig_2_1_1.jpg" width="40%">

@@ -18,4 +18,4 @@
 <!-- Для нумерации TeX формул нужно использловать \tag{хх} -->
 Note:
 - Continuous level
-- Discrete level. $$E_{m,n} > 0$$, scheme-dependent.
+- Discrete level. $L_1\left(2at^2\right)=1-2at^2$, scheme-dependent.

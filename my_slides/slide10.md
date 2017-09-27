@@ -173,7 +173,7 @@ W_{\alpha\beta}=\int{d\boldsymbol{\mathbf{r}} d\boldsymbol{\mathbf{r_1}} \Psi^*_
 
 <br>
 
-#### Квазидвумерные системы с бесконечным потенциалом и гауссовой флуктуации поверхности
+#### Квазидвумерные системы с бесконечным потенциалом и гауссовой флуктуацией поверхности
 `
 \[
 \frac{1}{\tau_a}=\frac{m_e}{\hbar^3}\pi{(\Delta \Lambda)}^2 V_n^2 \exp{\left[-\frac{1}{2}(\Lambda k_\bot )^2\right]} \mathrm{I}_0 \left[\frac{1}{2}(\Lambda k_\bot)^2\right]

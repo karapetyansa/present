@@ -229,7 +229,7 @@ p\sqrt{\frac{m_c }{m_v } } \sum_{n,m}\int\limits_{0}^{\infty }{\frac{dx}{\exp \l
 
 `
 \[
-\mu =\frac{eR^2{\hbar }^2}{m^*_x \gamma_0}\frac{1}{\sqrt{2m^*_x \beta_0}\sum_{nm}{F\left(\xi_{nm}\right)}}\sum_{nm}{\frac{\ln \left[1+{\exp \left(\beta {\xi }_{nm}\right)\ }\right]}{\left[\hbar \omega_y\frac{\omega_y}{\Omega_y} \left(n+\frac{1}{2}\right)+\hbar \omega_z\left(m+\frac{1}{2}\right)+ 2\Delta_c\right]^2}}+\\
+\mu_{xx} =\frac{eR^2{\hbar }^2}{m^*_x \gamma_0}\frac{1}{\sqrt{2m^*_x \beta_0}\sum_{nm}{F\left(\xi_{nm}\right)}}\sum_{nm}{\frac{\ln \left[1+{\exp \left(\beta {\xi }_{nm}\right)\ }\right]}{\left[\hbar \omega_y\frac{\omega_y}{\Omega_y} \left(n+\frac{1}{2}\right)+\hbar \omega_z\left(m+\frac{1}{2}\right)+ 2\Delta_c\right]^2}}+\\
 +\frac{eR^2 \hbar^2}{\mu^*_x \gamma_0}\frac{1}{\sqrt{2\mu^*_x \beta_0}\sum_{nm}{F\left(\widetilde{\xi }_{nm}\right)}}\sum_{nm}{\frac{\ln \left[1+{\exp \left(\beta \widetilde{\xi}_{nm}\right)\ }\right]}{p{\left[\hbar \widetilde{\omega}_y \frac{\widetilde{\omega}_y}{\widetilde{\Omega}_y}\left(n+\frac{1}{2}\right)+\hbar \widetilde{\omega}_z \left(m+\frac{1}{2}\right)+2{\Delta }_v\right]}^2}} 
 \]
 `
@@ -310,7 +310,7 @@ b=\frac{\Delta E_v }{\Delta E_c } , \\
 `
 
 
-<br>
+#### Интегралы Ферми
 
 <br>
 
