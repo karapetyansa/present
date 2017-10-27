@@ -2,7 +2,7 @@
 
 [Создана на основе библиотеки для презентаций reveal.js.](https://github.com/hakimel/reveal.js)
 
-[Для печати перейти по ссылке](https://karapetyansa.github.io/present/white.html?print-pdf#/)
+[Для печати перейти по ссылке](https://karapetyansa.github.io/present/?print-pdf#/)
 поменять ориентацию страницы на ландшафтную
 
 [Для печати с заметками перейти по ссылке](https://karapetyansa.github.io/present/?print-pdf&showNotes=separate-page#/)
