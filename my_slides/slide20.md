@@ -29,13 +29,13 @@ III - внутризонный переход
 
 
 
-<br>
+### Методика расчета
 
 `
 \[
 K(\Omega) = \frac{2 \pi e^2 }{V c n_0 \hbar \Omega m_e^2}\left( 1 - e^{-\beta_0 \hbar \Omega} \right) \int\limits_{-\infty }^{\infty} {dt \sum_{\alpha \alpha_1 \beta \beta_1} {\left\langle \alpha \left| (\hat{\boldsymbol{\mathbf{P}}} \boldsymbol{\mathbf{\xi}})  \right| \alpha_1 \right\rangle \left\langle \beta \left| (\hat{\boldsymbol{\mathbf{P}}} \boldsymbol{\mathbf{\xi}})  \right| \beta_1 \right\rangle}} \times\\
 \times n_{\beta_1} \left(1-n_{\beta} \right)
-{\left\lbrace  \left\langle \beta_1 \left| \exp \left(\frac{it\widetilde{H}}{\hbar}\right) \right|\alpha\right\rangle \left\langle \alpha_1 \left| \exp \left(-\frac{it\widetilde{H}}{\hbar}\right) \right|\beta\right\rangle \right\rbrace }_V \tag{1}
+{\left\lbrace  \left\langle \beta_1 \left| \exp \left(\frac{it\hat{H}}{\hbar}\right) \right|\alpha\right\rangle \left\langle \alpha_1 \left| \exp \left(-\frac{it\hat{H}}{\hbar}\right) \right|\beta\right\rangle \right\rbrace }_V \tag{1}
 \]
 `
 
@@ -60,7 +60,7 @@ Note:
 
 
 
-<br>
+### Полученные результаты
 
 <br>
 
